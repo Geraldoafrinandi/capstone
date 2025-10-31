@@ -1,4 +1,4 @@
-# aplikasi_makanan
+# Aplikasi Pendeteksi Kandungan Kalori dan Gizi pada Makanan
 
 A new Flutter project.
 
